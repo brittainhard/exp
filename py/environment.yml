@@ -1,0 +1,4 @@
+name: exp
+dependencies:
+  - python=3
+  - pytest
